@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "258965467651-r444ukj6orth0bht2mqi3i7l12o248at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbo.formation.myapplication",
+            "certificate_hash": "d547dcf2334ae5a9808ad10cba09a2624a60b6ca"
+          }
+        },
+        {
           "client_id": "258965467651-ppsudvlidlp2a96k348449d8grrcr356.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
